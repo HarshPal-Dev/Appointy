@@ -146,3 +146,4 @@ To set up and run this project locally:
     npm run dev
     ```
 // Update on 2024-06-09 - Commit 2
+// Update on 2024-06-19 - Commit 1
