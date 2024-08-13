@@ -154,3 +154,4 @@ To set up and run this project locally:
 // Update on 2024-07-09 - Commit 3
 // Update on 2024-07-16 - Commit 4
 // Update on 2024-07-19 - Commit 1
+// Update on 2024-08-13 - Commit 1
