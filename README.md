@@ -145,27 +145,4 @@ To set up and run this project locally:
     ```bash
     npm run dev
     ```
-// Update on 2024-06-09 - Commit 2
-// Update on 2024-06-19 - Commit 1
-// Update on 2024-06-22 - Commit 1
-// Update on 2024-06-29 - Commit 3
-// Update on 2024-07-04 - Commit 2
-// Update on 2024-07-05 - Commit 5
-// Update on 2024-07-09 - Commit 3
-// Update on 2024-07-16 - Commit 4
-// Update on 2024-07-19 - Commit 1
-// Update on 2024-08-13 - Commit 1
-// Update on 2024-08-14 - Commit 1
-// Update on 2025-07-18 - Commit 3
-// Update on 2025-07-19 - Commit 2
-// Update on 2025-07-29 - Commit 2
-// Update on 2025-07-31 - Commit 2
-// Update on 2025-08-12 - Commit 1
-// Update on 2025-08-14 - Commit 2
-// Update on 2025-08-16 - Commit 3
-// Update on 2025-08-22 - Commit 3
-// Commit 3 - 07/09/2025 00:00:00
-// Commit 30 - 07/21/2025 00:00:00
-// Commit 60 - 08/01/2025 00:00:00
-// Commit 66 - 08/04/2025 00:00:00
-// Commit 76 - 08/08/2025 00:00:00
+

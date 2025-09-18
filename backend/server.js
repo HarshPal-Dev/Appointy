@@ -27,32 +27,4 @@ app.get("/", (req, res) => {
 });
 
 app.listen(port, () => console.log(`Server started on PORT:${port}`))
-//hello
-// Update on 2024-06-06 - Commit 5
-// Update on 2024-06-15 - Commit 5
-// Update on 2024-06-16 - Commit 4
-// Update on 2024-06-29 - Commit 1
-// Update on 2024-07-04 - Commit 3
-// Update on 2024-07-07 - Commit 4
-// Update on 2024-07-19 - Commit 3
-// Update on 2024-07-24 - Commit 1
-// Update on 2024-07-27 - Commit 4
-// Update on 2024-08-03 - Commit 4
-// Update on 2024-08-06 - Commit 3
-// Update on 2025-07-18 - Commit 2
-// Update on 2025-07-28 - Commit 1
-// Update on 2025-07-28 - Commit 2
-// Update on 2025-07-30 - Commit 2
-// Update on 2025-08-06 - Commit 2
-// Update on 2025-08-12 - Commit 2
-// Update on 2025-08-14 - Commit 5
-// Update on 2025-08-17 - Commit 3
-// Update on 2025-08-21 - Commit 2
-// Update on 2025-08-21 - Commit 3
-// Commit 23 - 07/18/2025 00:00:00
-// Commit 42 - 07/25/2025 00:00:00
-// Commit 43 - 07/26/2025 00:00:00
-// Commit 62 - 08/03/2025 00:00:00
-// Commit 71 - 08/05/2025 00:00:00
-// Commit 74 - 08/07/2025 00:00:00
-// Commit 78 - 08/09/2025 00:00:00
+
